@@ -3,4 +3,4 @@
 Slides: https://goo.gl/990DqI
 
 Song Data: https://goo.gl/CiejVN
-(Put this csv file above in the same folder where notebooks are placed.)
+(Download and put this csv file in the same folder where notebooks are placed.)
